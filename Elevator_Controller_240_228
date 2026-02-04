@@ -1,0 +1,39 @@
+[*]
+[*] GTKWave Analyzer v3.3.48 (w)1999-2013 BSI
+[*] Wed Feb 04 09:05:36 2026
+[*]
+[dumpfile] "C:\iverilog\bin\elevator_wave.vcd"
+[dumpfile_mtime] "Wed Feb 04 08:48:57 2026"
+[dumpfile_size] 7415
+[savefile] "C:\iverilog\bin\Elevator_Controller_240_228\Elevator_Controller_240_228"
+[timestart] 0
+[size] 1536 793
+[pos] -165 -165
+*-14.000000 102540 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] stimulus.
+[treeopen] stimulus.uut.
+[treeopen] stimulus.uut.timer.
+[sst_width] 197
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 221
+@28
+stimulus.uut.clk
+stimulus.uut.sw_floor[1:0]
+stimulus.uut.current_floor[1:0]
+stimulus.uut.q0
+stimulus.uut.q1
+@22
+stimulus.debug_count[3:0]
+@28
+stimulus.uut.door_q
+stimulus.uut.door_led
+stimulus.uut.sw_open
+stimulus.uut.sw_close
+stimulus.debug_j0
+stimulus.debug_k0
+stimulus.debug_j1
+@29
+stimulus.debug_k1
+[pattern_trace] 1
+[pattern_trace] 0
